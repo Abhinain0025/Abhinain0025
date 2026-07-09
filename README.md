@@ -32,13 +32,6 @@ An object-oriented university platform engineered to facilitate peer-to-peer ski
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinain0025&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Abhishek's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinain0025&theme=radical&hide_border=true&background=0D1117" alt="Abhishek's GitHub Streak" />
-</div>
-
 <br/>
 
 📫 **Reach me at:** www.linkedin.com/in/abhisheknain0025
